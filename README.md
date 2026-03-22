@@ -26,7 +26,7 @@ API REST desarrollada en **.NET 10** usando **Minimal API**, con CRUD de users y
 ```bash
 # Clonar el repositorio
 git clone https://github.com/rudyca16-ai/PruebaTecnicaBackAPI.git
-cd PruebaTecnicaBackAPI
+cd PruebaTecnicaBackAPI/PruebaTecnicaBackAPI
 
 # Restaurar dependencias
 dotnet restore
